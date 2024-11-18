@@ -1,0 +1,14 @@
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\RemoveArray.exe
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\RemoveArray.deps.json
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\RemoveArray.runtimeconfig.json
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\RemoveArray.dll
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\RemoveArray.pdb
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\RemoveArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\RemoveArray.AssemblyInfoInputs.cache
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\RemoveArray.AssemblyInfo.cs
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\RemoveArray.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\RemoveArray.dll
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\refint\RemoveArray.dll
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\RemoveArray.pdb
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\RemoveArray.genruntimeconfig.cache
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\ref\RemoveArray.dll

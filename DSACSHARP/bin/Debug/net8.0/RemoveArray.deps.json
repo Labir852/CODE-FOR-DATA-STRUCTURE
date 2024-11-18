@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RemoveArray/1.0.0": {
+        "runtime": {
+          "RemoveArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoveArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

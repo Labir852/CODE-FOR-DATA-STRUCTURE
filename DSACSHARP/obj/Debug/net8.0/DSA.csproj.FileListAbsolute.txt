@@ -1,0 +1,14 @@
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\DSA.exe
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\DSA.deps.json
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\DSA.runtimeconfig.json
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\DSA.dll
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\bin\Debug\net8.0\DSA.pdb
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\DSA.AssemblyInfoInputs.cache
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\DSA.AssemblyInfo.cs
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\DSA.dll
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\refint\DSA.dll
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\DSA.pdb
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\DSA.genruntimeconfig.cache
+C:\Users\Tanvir Anjum Labir\source\repos\RemoveArray\obj\Debug\net8.0\ref\DSA.dll
